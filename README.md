@@ -20,10 +20,6 @@ The project uses an MCP2515 CAN controller and a 128×64 OLED display to provide
 - Average battery temperature.
 - Battery capacity monitoring (Ah).
 - Cell voltage imbalance monitoring.
-- Contactor and full-charge status.
-- Battery learning status indicators.
-- Temperature spike filtering and averaging.
-- FIFO CAN message processing.
 - Six display pages.
 - Settings and calibration data stored in EEPROM.
 
