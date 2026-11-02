@@ -1,5 +1,7 @@
 # Nissan Leaf Advanced CAN Dashboard
 
+![Main Dashboard](images/photo_2026-11-02_11-50-38.jpg)
+
 An Arduino-based CAN dashboard for the Nissan Leaf, featuring real-time battery monitoring, driving statistics, and additional battery telemetry.
 
 The project uses an MCP2515 CAN controller and a 128×64 OLED display to provide useful information about the vehicle and its high-voltage battery.
