@@ -142,7 +142,7 @@ Please note that the additional telemetry features require a compatible version 
 
 **This project is distributed completely free of charge.**
 
-It was assembled and developed using code, ideas, and components from several existing open-source projects and contributions from other developers.
+It was assembled and developed using code, ideas, and components from several existing open-source projects.
 
 I believe that projects built upon the work of the open-source community should remain accessible to everyone.
 
